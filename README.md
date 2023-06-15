@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **elcinq743@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/Downloads/CV%20-%20El%C3%A7in%20Quliyev%20%20(2).pdf](file:///C:/Users/HP/Downloads/CV%20-%20El%C3%A7in%20Quliyev%20%20(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
