@@ -18,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elcinquliyev&show_icons=true&locale=en" alt="elcinquliyev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcinquliyev&" alt="elcinquliyev" /></p>
