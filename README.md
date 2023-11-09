@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elcinquliyev&label=Profile%20views&color=0e75b6&style=flat" alt="elcinquliyev" /> </p>
 
 
-<div align="center">
+<p align="center">
  <img width="600" src="./assets/icons/github-snake.svg" alt="snake"/>
-</div>
+</p>
 
 
 
