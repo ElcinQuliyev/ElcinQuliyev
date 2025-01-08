@@ -15,7 +15,9 @@
 ## 🏆 Github Profile Trophy
 
 <p align="left"> <a href="https://github.com/ElcinQuliyev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcinquliyev&margin-w=15" alt="bbarisbolat" /></a> </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elcinquliyev&theme=juicyfresh" /><a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
